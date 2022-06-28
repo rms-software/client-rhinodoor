@@ -1,0 +1,70 @@
+{
+  "general": {
+    "slogan": "Top kwaliteits garagedeuren",
+
+    "navigation": {
+      "home": "Home",
+      "shop": "Winkel",
+      "contact": "Contact"
+    }
+  },
+
+  "page": {
+    "shop": {
+      "allCompanies": "Alle bedrijven",
+      "filters": "Filters",
+      "searchQuery": "Zoek opdracht",
+      "company": "Bedrijf",
+      "price": "Prijs",
+      "xDoorsLoaded": "deuren geladen",
+      "checkOutDoor": "Bekijk deur",
+      "upwardOf": "Vanaf"
+    },
+
+    "home": {
+      "whyRhinodoors": {
+        "dividerTitle": "Waarom kiezen voor een Rhinodoors?",
+
+        "fingerTrapProtection": {
+          "title": "Vingerklembeveiliging",
+          "content": "Alle deuren in ons programma hebben standaard vingerklem- beveiliging. Een wettelijk verplichte beveiliging, die voorkomt dat uw vingers bij het openen en sluiten van de deur, beklemd kunnen raken tussen de panelen."
+        },
+
+        "springBreakProtection": {
+          "title": "Veerbreukbeveiliging",
+          "content": "Onze deuren zijn standaard uitgerust met de wettelijk verplichte veerbreukbeveiliging. Deze zorgt ervoor dat de deur zich in onvoorziene situaties niet plotseling sluit, waardoor onveilige situaties en schade zouden kunnen optreden."
+        },
+
+        "burglaryProtection": {
+          "title": "Inbraakbeveiliging",
+          "content": "Woninginbraak is helaas aan de orde van de dag. Het is dus belangrijk dat uw garagedeur goed beveiligd is. De afsluitingen op onze garagedeuren kunnen, als optie worden geleverd met een SKG keurmerk. Het SKG-keurmerk is een belangrijk beveiligings- onderdeel van het Politiekeurmerk Veilig Wonen®."
+        },
+
+        "liftProtection": {
+          "title": "Optilbeveiliging",
+          "content": " Indien uw garagedeur wordt voorzien van een bediening met elektrische motor, beschikt u automatisch over een optilbeveiliging. De motor beschermt uw deur tegen optillen door tegendruk op te bouwen wanneer iemand de deur met de hand wil openen."
+        },
+
+        "obstacleProtection": {
+          "title": "Onderloop- en obstakelbeveiliging",
+          "content": "Onze elektrisch bediende garagedeuren beschikken standaard over een krachtbegrenzing. Deze zorgt dat de deur bij geringe tegendruk, van bijvoorbeeld uw kind of uw auto, direct automatisch weer omhoog gaat."
+        }
+      },
+
+      "featuredDoors": {
+        "dividerTitle": "Uitgelichte deuren",
+        "moreDoors": "Bekijk meer deuren",
+        "checkOutDoor": "Bekijk deur",
+        "upwardOf": "Upward of",
+        "atCompanyName": "Bij"
+      },
+
+      "ourCompany": {
+        "dividerTitle": "Ons bedrijf",
+        "excellentQuality": "Uitstekende kwaliteit",
+        "innovativeCompany": "Jong, fris en innovatief bedrijf",
+        "customizedDoors": "Maatwerk mogelijk, wij denken graag met u mee!"
+      }
+    }
+  }
+}

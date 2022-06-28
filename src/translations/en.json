@@ -1,0 +1,70 @@
+{
+  "general": {
+    "slogan": "Top quality garagedoors",
+
+    "navigation": {
+      "home": "Home",
+      "shop": "Shop",
+      "contact": "Contact"
+    }
+  },
+
+  "page": {
+    "shop": {
+      "allCompanies": "All companies",
+      "filters": "Filters",
+      "searchQuery": "Search query",
+      "company": "Company",
+      "price": "Price",
+      "xDoorsLoaded": "doors loaded",
+      "checkOutDoor": "Check out",
+      "upwardOf": "Upwards of"
+    },
+
+    "home": {
+      "whyRhinodoors": {
+        "dividerTitle": "Why choose for a rhino door?",
+
+        "fingerTrapProtection": {
+          "title": "Finger trap protection",
+          "content": "All doors in our range have finger protection by default, A legally required protection that prevents your fingers from getting caught between the panels when opening and closing the door."
+        },
+
+        "springBreakProtection": {
+          "title": "Spring break protection",
+          "content": "Our doors are equipped with the legally required spring break protection. This ensures that the door does not close suddenly in unforeseen situations, which could lead to unsafe situations and damage."
+        },
+
+        "burglaryProtection": {
+          "title": "Burglary protection",
+          "content": "Home burglary is unfortunately the order of the day. It is therefore important that your garage door is properly secured. The locks on our garage doors can optionally be supplied with an SKG quality mark. The SKG quality mark is an important security element of the Police Quality Mark Safe Living®."
+        },
+
+        "liftProtection": {
+          "title": "Lift protection",
+          "content": "If your garage door is equipped with a control with an electric motor, you automatically have a lift protection. The motor protects your door from being lifted by building back pressure when someone tries to open the door by hand."
+        },
+
+        "obstacleProtection": {
+          "title": "Obstacle protection",
+          "content": "Our electrically operated garage doors have a force limiter as standard. This ensures that the door is automatically raised again in the event of a slight counter pressure, for example from your child or your car."
+        }
+      },
+
+      "featuredDoors": {
+        "dividerTitle": "Featured doors",
+        "moreDoors": "Explore more doors",
+        "checkOutDoor": "Check out",
+        "upwardOf": "Upwards of",
+        "atCompanyName": "At"
+      },
+
+      "ourCompany": {
+        "dividerTitle": "Our company",
+        "excellentQuality": "Excellent quality",
+        "innovativeCompany": "Young, fresh and innovative company",
+        "customizedDoors": "Customization possible, we'll gladly help you!"
+      }
+    }
+  }
+}
